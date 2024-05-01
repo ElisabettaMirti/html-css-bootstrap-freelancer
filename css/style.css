@@ -11,6 +11,7 @@
 .my_bg-green{
     background-color: #1abc9c;
     color: white;
+    border-color: transparent;
 }
 
 div.line{
@@ -29,4 +30,8 @@ div.line{
 .my_btn-wh{
     border-color: white;
     color: white;
+}
+
+#floatingTextarea{
+    height: 10rem;
 }
