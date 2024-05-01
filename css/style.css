@@ -35,3 +35,39 @@ div.line{
 #floatingTextarea{
     height: 10rem;
 }
+
+footer>.info{
+    background-color: #3a546d;
+    color: white;
+    border-color: white;
+}
+
+.my_text-blue{
+    color: #1abc9c;
+}
+
+.info i{
+    border-radius: 1.5rem;
+}
+
+#link-fb{
+    padding: .8rem 1rem;
+}
+
+#link-gplus{
+    padding: .8rem .68rem;
+}
+
+#link-tw{
+    padding: .8rem;
+}
+
+#link-in{
+    padding: .8rem .85rem;
+}
+
+#link-fb,
+#link-gplus,
+#link-tw{
+    margin-right: .8rem;
+}
