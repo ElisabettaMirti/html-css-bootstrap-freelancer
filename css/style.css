@@ -16,5 +16,12 @@
 div.line{
     width: 10vw;
     height: 0;
+}
+
+.line.wh{
     border: 2px solid white;
+}
+
+.line.bl{
+    border: 2px solid black;
 }
