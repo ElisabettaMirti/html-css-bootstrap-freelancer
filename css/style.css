@@ -25,3 +25,8 @@ div.line{
 .line.bl{
     border: 2px solid black;
 }
+
+.my_btn-wh{
+    border-color: white;
+    color: white;
+}
